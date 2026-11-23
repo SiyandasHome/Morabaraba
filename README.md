@@ -114,7 +114,7 @@ Board layout inspired by [Liberty Kapungu's Morabaraba implementation](https://g
 
 ## Documentation
 
-Full report with design, results and discussion: [`docs/Final_Report.pdf`](docs/Final_Report.pdf)
+Full report with design, results and discussion: [`docs/Final Report.pdf`](docs/Final-Report.pdf)
 
 ## Authors
 
